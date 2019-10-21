@@ -1,0 +1,16 @@
+<div class="card">
+  <div class="card-wrapper">
+  <img src="{{user.photoUrl || 'https://www.pngfind.com/pngs/m/110-1102775_download-empty-profile-hd-png-download.png'}}" class="card-img-top" alt="{{user.knownAs}}">
+
+  <div class="list-inline member-icons animate text-center">
+    <li class="list-inline-item"><button [routerLink]="['/members', user.id]"   class="btn btn-primary"><i class="fa fa-user"></i></button></li>
+    <li class="list-inline-item"><button (click)="likeUser(user.id)" class="btn btn-primary"><i class="fa fa-heart"></i></button></li>
+    <li class="list-inline-item"><button class="btn btn-primary"><i class="fa fa-envelope"></i></button></li>
+  </div>
+</div>
+  <div class="card-body">
+    <h5 class="card-title"><i class="fa fa-user"></i>{{user?.username}}, {{user?.age}}</h5>
+    
+    <p class="card-text">{{user?.city}}</p>
+  </div>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.csprojAssemblyReference.cache
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.csproj.CoreCompileInputs.cache
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.RazorAssemblyInfo.cache
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.RazorAssemblyInfo.cs
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.AssemblyInfoInputs.cache
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.AssemblyInfo.cs
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\bin\Debug\netcoreapp2.1\socialnetwork.deps.json
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\bin\Debug\netcoreapp2.1\socialnetwork.runtimeconfig.json
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\bin\Debug\netcoreapp2.1\socialnetwork.runtimeconfig.dev.json
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\bin\Debug\netcoreapp2.1\socialnetwork.dll
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\bin\Debug\netcoreapp2.1\socialnetwork.pdb
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.RazorTargetAssemblyInfo.cache
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.dll
+C:\Users\Dell E6540\Desktop\DOTNET\socialnetwork\obj\Debug\netcoreapp2.1\socialnetwork.pdb
